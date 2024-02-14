@@ -1,0 +1,20 @@
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\bin\Debug\TrinityFunction.exe.config
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\bin\Debug\TrinityFunction.exe
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\bin\Debug\TrinityFunction.pdb
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.Form1.resources
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.Properties.Resources.resources
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.csproj.GenerateResource.Cache
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.exe
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.pdb
+C:\Users\bhall\Documents\Visual Studio 2013\Projects\TechLab\BSH_Lab\TrinityFunction\obj\Debug\TrinityFunction.csprojResolveAssemblyReference.cache
+C:\temp\TrinityFunction\bin\Debug\TrinityFunction.exe.config
+C:\temp\TrinityFunction\bin\Debug\TrinityFunction.exe
+C:\temp\TrinityFunction\bin\Debug\TrinityFunction.pdb
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.csproj.AssemblyReference.cache
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.csproj.SuggestedBindingRedirects.cache
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.Form1.resources
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.Properties.Resources.resources
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.csproj.GenerateResource.cache
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.csproj.CoreCompileInputs.cache
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.exe
+C:\temp\TrinityFunction\obj\Debug\TrinityFunction.pdb
